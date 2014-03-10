@@ -1,4 +1,4 @@
-name := "scruff"
+name := "scruffy"
 
 description := "Scala utility library"
 
